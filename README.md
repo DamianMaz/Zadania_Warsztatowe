@@ -1,0 +1,1 @@
+2 testy automatyczne jako zadania zaliczeniowe w kursie testera automatyzującego
